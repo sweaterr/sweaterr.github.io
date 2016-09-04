@@ -7,7 +7,7 @@ title: 코딩 인터뷰 완전분석
 *  보관된 원소를 상수 시간에 접근할수 없음
 *  재귀 호출 빈번
 
-```Java
+```java
 class Node{
 	Node next = null;
 	int data;

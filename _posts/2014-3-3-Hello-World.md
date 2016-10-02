@@ -17,7 +17,8 @@ title: WIP
 * [연봉협상](https://www.evernote.com/shard/s29/sh/433851c9-1a99-4838-985e-34b715e34a50/6975f37f33644482870827a6fd6affca) 
 
 ### 2016-08
-* [딥러닝 리서치](./deep-learning.md)
+* [딥러닝 리서치](https://www.evernote.com/shard/s29/sh/ccc34407-349e-45e9-84e4-9a0d89dbeece/db06b1edce00b717e5493400d5947bd9
+)
 
 
 ### 공부 할 것

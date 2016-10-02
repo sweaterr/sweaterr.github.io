@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIP
+title: Working in Progress
 ---
 
 ## 2016-10

@@ -15,7 +15,7 @@ title: Working in Progress
 * 인터뷰 준비
  * [비공개](https://github.com/sweaterr/bookmarking)
 
-### 2016-08
+## 2016-08
 
 * [딥러닝 리서치](https://www.evernote.com/shard/s29/sh/ccc34407-349e-45e9-84e4-9a0d89dbeece/db06b1edce00b717e5493400d5947bd9
 )
@@ -24,3 +24,4 @@ title: Working in Progress
 ### 공부 할 것
 
 * [Google Recommendation](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [통계학 노트](http://jaekwangkim.com/)

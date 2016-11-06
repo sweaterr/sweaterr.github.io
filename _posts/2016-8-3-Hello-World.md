@@ -4,7 +4,7 @@ title: Working in Progress
 ---
 ## 2016-11
 * [텐서플로우 공부](https://github.com/sweaterr/tensorflowbook)  
-* tensorflow 메뉴얼 번역
+* [tensorflow 메뉴얼 번역](https://github.com/tensorflowkorea/tensorflow-kr)
 * FDL 번역
 
 ## 2016-10

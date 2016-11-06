@@ -4,9 +4,8 @@ title: Working in Progress
 ---
 ## 2016-11
 * [텐서플로우 공부](https://github.com/sweaterr/tensorflowbook)  
- * [[TENSORFLOW] 텐서플로우에서의 쓰레드](http://yujuwon.tistory.com/entry/TENSORFLOW-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%97%90%EC%84%9C%EC%9D%98-%EC%93%B0%EB%A0%88%EB%93%9C)
- * [Threading and Queues](https://www.tensorflow.org/versions/r0.11/how_tos/threading_and_queues/index.html)
- 
+* tensorflow 번역
+
 ## 2016-10
 * [정보검색 개념 정리](https://www.evernote.com/shard/s29/sh/6eeb8c1e-f376-4947-84b5-6894ee0a5df1/600ee1f2b3f0646ef9e7bf2ce206276e) 
 * Tensorflow for machine intelligence  

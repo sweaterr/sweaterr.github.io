@@ -21,7 +21,7 @@ title: Working in Progress
 
 ## 2016-08
 
-* [딥러닝 리서치](https://www.evernote.com/shard/s29/sh/ccc34407-349e-45e9-84e4-9a0d89dbeece/db06b1edce00b717e5493400d5947bd9
+* [딥러닝 리서치](https://www.evernote.com/shard/s29/sh/8826e8ad-175d-4053-a736-53bb0ec33fdd/f621059e85a2004b38a3b98da17659aa
 )
 
 
